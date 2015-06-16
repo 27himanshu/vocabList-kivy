@@ -1,5 +1,5 @@
 # vocabList-kivy
-This app will create a list of words and thier meanings.  
+This app will create a list of words and their meanings.  
 User should enter a word and the app will search for its meaning and add that word to the list.  
 I'm also working on flashcards, where user will be shown a random card and keep track how user is learning new words.  
 It uses **Wordnik API** for fetching meaning of words.  
