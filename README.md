@@ -6,10 +6,8 @@ GUI is implemented using **Kivy**
 
 #Screenshots
 ##Main Screen
-![Screenshot](http://i.imgur.com/V0NULR0.png)
+![Screenshot](https://raw.githubusercontent.com/27himanshu/vocabList-kivy/master/screens/main_screen.png)
 ##Side Panel
-![Screenshot](http://i.imgur.com/iPNJMX5.png)
+![Screenshot](https://raw.githubusercontent.com/27himanshu/vocabList-kivy/master/screens/side_panel.png)
 ##Adding New Word
-![Screenshot](http://i.imgur.com/pADJKoZ.png)
-##New Word Added
-![Screenshot](http://i.imgur.com/UWvMnOj.png)
+![Screenshot](https://raw.githubusercontent.com/27himanshu/vocabList-kivy/master/screens/adding_new_word.png)
